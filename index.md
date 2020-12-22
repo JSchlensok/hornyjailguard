@@ -11,4 +11,4 @@ In the dialogue that opens, select the server you want to add the bot to (you ne
 Clone this repository, generate your own token in the Discord developer portal, put it into the .env file, and build your image from the Dockerfile
 
 ## Feedback
-For feature requests and issues, please use the GitHub issue feature at https://github.com/JSchlensok/hornyjailguard/issuesj
+For feature requests and issues, please use the GitHub issue feature at https://github.com/JSchlensok/hornyjailguard/issues
