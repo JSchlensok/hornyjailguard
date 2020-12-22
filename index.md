@@ -1,9 +1,7 @@
 # HornyJailGuard Discord Bot
 
 ## Functionality
-In any text channel, type 
-    -bonk @<username>
-and see what happens :)
+In any text channel, type ```-bonk @<username>``` and see what happens :)
   
 ## Configuration
 Please set up a "hornyjail" voice channel on your Discord server. Custom names for the channel to move people to are currently not supported.
